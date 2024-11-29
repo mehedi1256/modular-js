@@ -1,0 +1,11 @@
+{
+  "name": "module-js",
+  "version": "1.0.0",
+  "description": "node module js practice",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "author": "Mehedi Hassan Shovo",
+  "license": "MIT"
+}
